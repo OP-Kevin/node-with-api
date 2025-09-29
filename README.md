@@ -11,7 +11,9 @@ It demonstrates how to create, read, update, and delete records from a database.
 - API + EJS integration
 
 ## Project Screenshot
-![App Screenshot](./screenshot.png)
+![App Screenshot](./fetch_data.png)
+
+![Insert Data](./add_data.png)
 
 ## Installation
 ```bash
