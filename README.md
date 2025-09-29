@@ -14,6 +14,7 @@ It demonstrates how to create, read, update, and delete records from a database.
 ![App Screenshot](./fetch_data.png)
 
 ![Insert Data](./add_data.png)
+![Update Data](./update_data.png)
 
 ## Installation
 ```bash
